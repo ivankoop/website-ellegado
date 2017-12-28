@@ -39,10 +39,10 @@
             >
                 <div class="middle" style="opacity: 1">
                         <div class="text">Pan Dulce Brigadeiro</div>
-                    </div> 
+                    </div>
                     <div class="middle" style="opacity: ">
                         <div class="text">Pan Dulce Brigadeiro</div>
-                    </div> 
+                    </div>
             </div> -->
         </div>
     <div class='products' id="products">
@@ -147,7 +147,7 @@
 <script src="https://code.jquery.com/jquery-3.2.1.js" integrity="sha256-DZAnKJ/6XZ9si04Hgrsxu/8s717jcIzLy3oi35EouyE="
 		  crossorigin="anonymous"></script>
 
-<script src="/js/cycles.js"></script>
+<script src="/website-ellegado/js/cycles.js"></script>
 <script async defer
     src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCVuouEtI8E235OJNBVdHUrRQNZ4qCA3AE&callback=initMap">
     </script>
